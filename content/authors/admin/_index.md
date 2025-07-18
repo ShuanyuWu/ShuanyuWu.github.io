@@ -1,12 +1,12 @@
 ---
 # Display name
-title: 吴舜禹
+title: Shunyu Wu (吴舜禹)
 
 # Name pronunciation (optional)
 name_pronunciation: Shuan Yu Wu
 
 # Full name (for SEO)
-first_name: Shuan Yu
+first_name: Shunyu Yu
 last_name: Wu
 
 # Status emoji
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Phd Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Shanghai Jiao Tong University
-    url: https://openai.com/
+    url: https://sjtu.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
