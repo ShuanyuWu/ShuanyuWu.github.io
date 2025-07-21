@@ -46,37 +46,24 @@ interests:
   - Dynamic System Optimization
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Constrol Science and Engineering
+    institution: Shanghai Jiao Tong University
+    date_start: 2022-04-01
+    date_end: Until now
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Supervised by [Prof Jingcheng Wang](https://ieeexplore.ieee.org/author/37280547200). Presented papers at IEEE transaction and Elsevier Q1 journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+  - area: MEng Control Science
+    institution: Shanghai Jiao Tong University
+    date_start: 2019-09-01
+    date_end: 2022-03-30
+  - area: BSc Automation
+    institution: Nanjing University of Science and Technology
+    date_start: 2015-09-01
+    date_end: 2019-06-06
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -175,4 +162,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Shunyu Wu is current a final-year Phd candidate of artificial intelligence at the Shanghai Jiao Tong University. His research interests include end-to-end optimization, decision-focused learning, learn to optimize and time series forecasting. He also worked with the company as the LEADER and core algorithm engineer to actually deploy the research results in real-time water distribution systems and thermal power plants in Shanghai, Xinjiang and Guangxi.
