@@ -161,4 +161,4 @@ awards:
 
 ## About Me
 
-Shunyu Wu is current a final-year Phd candidate of artificial intelligence at the Shanghai Jiao Tong University. His research interests include end-to-end optimization, decision-focused learning, learn to optimize and time series forecasting. He also worked with the company as the LEADER and core algorithm engineer to actually deploy the research results in real-time water distribution systems and thermal power plants in Shanghai, Xinjiang and Guangxi.
+Shunyu Wu is current a final-year Phd candidate of artificial intelligence at the Shanghai Jiao Tong University. His research interests include end-to-end optimization, decision-focused learning, learn to optimize and time series forecasting. 
