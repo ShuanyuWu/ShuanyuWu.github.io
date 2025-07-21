@@ -46,7 +46,7 @@ interests:
   - Dynamic System Optimization
 
 education:
-  - area: PhD Constrol Science and Engineering
+  - area: PhD Control Science and Engineering
     institution: Shanghai Jiao Tong University
     date_start: 2022-04-01
     date_end: Until now
@@ -63,7 +63,6 @@ education:
     institution: Nanjing University of Science and Technology
     date_start: 2015-09-01
     date_end: 2019-06-06
-
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
