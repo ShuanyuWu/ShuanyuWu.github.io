@@ -49,7 +49,7 @@ education:
   - area: PhD Control Science and Engineering
     institution: Shanghai Jiao Tong University
     date_start: 2022-04-01
-    date_end: Until now
+    date_end: 2026-03-31
     summary: |
       Supervised by [Prof Jingcheng Wang](https://ieeexplore.ieee.org/author/37280547200). Presented papers at IEEE transaction and Elsevier Q1 journals.
     button:
